@@ -1,0 +1,122 @@
+body {
+  position: relative;
+  font-size: 14px;
+}
+
+p strong {
+  color: #ecff88;
+}
+
+.reveal p.autor {
+  font-size: 0.72em !important;
+  margin-top: 80px;
+}
+.reveal h1.title-1, .reveal h2.title-1, .reveal h3.title-1, .reveal h4.title-1, .reveal h5.title-1, .reveal h6.title-1 {
+  margin-bottom: 80px;
+}
+.reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled {
+  border-left-color: white;
+}
+.reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
+  border-right-color: white;
+}
+.reveal .controls .navigate-top, .reveal .controls .navigate-top.enabled {
+  border-bottom-color: white;
+}
+.reveal .controls .navigate-bottom, .reveal .controls .navigate-bottom.enabled {
+  border-top-color: white;
+}
+.bibliografia p {
+  font-size: 0.56em !important;
+}
+.segundo-color {
+  background-color: red;
+}
+
+.segundo-color {
+  background-color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {}
+
+.reveal h3 {
+  color: #EBC600;
+  text-shadow: 0px -4px black;
+}
+section.pag-1-4 img {
+  width: 40%;
+}
+section.pag-1-5 img,
+section.pag-1-6 img {
+  width: 40%;
+  margin: 10px 20px;
+}
+section.pag-1-9 img {
+  width: 50%;
+}
+section.pag-1-10 img {
+  width: 46%;
+}
+section.pag-1-12 img {
+  width: 60%;
+}
+section.pag-5-6 img {
+  width: 60%;
+}
+
+.pag-2-2 {
+  font-size: .72em !important;
+}
+
+.pag-2-2 h4,
+.pag-2-e h4 {
+  margin-bottom: 30px !important;
+}
+.pag-2-2 img {
+  width: 80%;
+}
+
+section.pag-2-e img {
+  width: 120%;
+  margin: auto;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.pag-4-2 ul > li > ul > li,
+.pag-4-2 ul > li > ul > li > ul > li {
+  width: 33.333%;
+  float: left;
+}
+
+.pag-4-2 ul > li > ul > li > ul > li {
+  font-size: 32px;
+}
+
+.pag-4-2 ul > li > ul > li:nth-child(4) {
+  width: 100%;
+}
+
+.pag-4-2 img {
+  width: 18%;
+  position: absolute;
+  bottom: 0px;
+  right: 80px;
+}
+
+.pag-4-4 {
+  font-size: .64em !important;
+}
+
+.pag-4-4 p {
+  text-align: left;
+}
+
+section.pag-4-4 img {
+  margin: auto;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  max-height: 120px;
+}

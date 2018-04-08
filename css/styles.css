@@ -12,7 +12,7 @@ p strong {
   margin-top: 80px;
 }
 .reveal h1.title-1, .reveal h2.title-1, .reveal h3.title-1, .reveal h4.title-1, .reveal h5.title-1, .reveal h6.title-1 {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 .reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled {
   border-left-color: white;
@@ -60,63 +60,9 @@ section.pag-1-10 img {
 section.pag-1-12 img {
   width: 60%;
 }
-section.pag-5-6 img {
+section.pag-2-1 img {
+  width: 25%;
+}
+section.pag-2-5 img {
   width: 60%;
-}
-
-.pag-2-2 {
-  font-size: .72em !important;
-}
-
-.pag-2-2 h4,
-.pag-2-e h4 {
-  margin-bottom: 30px !important;
-}
-.pag-2-2 img {
-  width: 80%;
-}
-
-section.pag-2-e img {
-  width: 120%;
-  margin: auto;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
-
-.pag-4-2 ul > li > ul > li,
-.pag-4-2 ul > li > ul > li > ul > li {
-  width: 33.333%;
-  float: left;
-}
-
-.pag-4-2 ul > li > ul > li > ul > li {
-  font-size: 32px;
-}
-
-.pag-4-2 ul > li > ul > li:nth-child(4) {
-  width: 100%;
-}
-
-.pag-4-2 img {
-  width: 18%;
-  position: absolute;
-  bottom: 0px;
-  right: 80px;
-}
-
-.pag-4-4 {
-  font-size: .64em !important;
-}
-
-.pag-4-4 p {
-  text-align: left;
-}
-
-section.pag-4-4 img {
-  margin: auto;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-  max-height: 120px;
 }
